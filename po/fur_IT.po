@@ -1031,7 +1031,7 @@ msgid ""
 "Trondar proposed we try to make our way down, out of the mountains, and try "
 "to contact the Issaelfr. They might be able to help us - either give us "
 "shelter, or direct us to somewhere safe. If nothing else, it would bring us "
-"fur_ITther away from Lokka and his menn, and perhaps throw them off of our "
+"further away from Lokka and his menn, and perhaps throw them off of our "
 "trail."
 msgstr ""
 
@@ -1204,13 +1204,13 @@ msgstr ""
 #: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:311
 msgid ""
 "Nothing. As I said, we are strangers here; we did not know where to find "
-"this Frisdin Bourne entrance. Now we know. We need trouble you no fur_ITther."
+"this Frisdin Bourne entrance. Now we know. We need trouble you no further."
 msgstr ""
 
 #. [message]: id=Gali
 #: Galis_Contract/scenarios/3_Through_Fire_and_Ice.cfg:315
 msgid ""
-"(muttering) Mm, yes, I suppose no need to trouble you fur_ITther... no need to "
+"(muttering) Mm, yes, I suppose no need to trouble you further... no need to "
 "tell the whole damn world of the troubles of the hidden folk..."
 msgstr ""
 
